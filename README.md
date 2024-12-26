@@ -1,6 +1,6 @@
-# ROVI Dataset
+# RVOI Dataset
 Reduced visibility driving conditions (RVDC) are unique occurrences in real traffic environments. The conventional method of collecting and constructing datasets through natural driving experiments is not only time-consuming and costly but also poses significant challenges in amassing a substantial amount of data. However, with the widespread use of mobile recording devices (e.g., dash cams), drivers around the world have captured a wealth of reduced visibility video data. To further diversify the scenarios, reduced visibility data were collected from videos recorded by drivers, using search terms such as "reduced visibility", "low visibility", "heavy fog" and "foggy" on the Internet. Following the retrieval, downloading, and verification processes, as shown in Fig (a), a Reduced Visibility Onboard Image (RVOI) dataset was constructed, comprising 51 reduced visibility driving videos from 19 countries. Moreover, as depicted in Fig (b)-(g), the RVOI dataset includes a highly diverse range of scenes, with variations in visibility, device location, road types, traffic densities, weather patterns, and lighting conditions. 
 ![](https://github.com/JiBingdong/ROVI-Dataset/blob/2d020778dfaadb2d255f0a2b3ea509789938a8d9/dataset.jpg)
 
 # Download link
-A download link for the ROVI dataset will be available when our paper is accepted.
+A download link for the RVOI dataset will be available when our paper is accepted.
